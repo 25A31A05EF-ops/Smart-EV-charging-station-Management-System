@@ -1,0 +1,11 @@
+ABSTRACT
+
+Smart EV Charging Station Management System
+
+The Smart EV Charging Station Management System is a software-based application developed to manage and organize electric vehicle charging activities efficiently. With the increasing use of electric vehicles, the demand for well-managed charging stations is also growing. This project aims to provide a simple and effective solution for managing EV charging operations and improving the overall charging experience.
+
+The system helps users manage important charging station activities such as checking charging availability, selecting charging options, entering vehicle details, and calculating the total charging cost. It also helps maintain organized information about charging sessions and makes the charging management process easier and more systematic.
+
+This project is developed using the C++ programming language. It uses basic programming concepts such as conditional statements, loops, functions, and data handling to perform different operations. The system is designed with a simple and user-friendly interface so that users can easily understand and operate it.
+
+The main objective of this project is to reduce manual work, save time, improve charging station management, and provide a convenient way to handle electric vehicle charging activities. This project demonstrates how programming can be used to develop practical solutions for modern transportation needs and support the growth of electric vehicle technology.

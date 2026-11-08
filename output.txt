@@ -1,0 +1,171 @@
+====================================
+ SMART EV CHARGING STATION SYSTEM
+====================================
+
+1. Register Vehicle & Request Charging
+2. View Charging Stations
+3. View Registered Vehicles
+4. View Waiting Queue
+5. Complete Charging & Generate Bill
+6. View Charging & Billing History
+7. Exit
+
+Enter your choice: 1
+
+Enter Vehicle ID: EV101
+Enter Owner Name: Swarna
+Enter Battery Level (0-100): 20
+Enter Battery Capacity (kWh): 50
+
+Vehicle Registered Successfully!
+
+Vehicle EV101 assigned to Station 1
+
+
+====================================
+ SMART EV CHARGING STATION SYSTEM
+====================================
+
+1. Register Vehicle & Request Charging
+2. View Charging Stations
+3. View Registered Vehicles
+4. View Waiting Queue
+5. Complete Charging & Generate Bill
+6. View Charging & Billing History
+7. Exit
+
+Enter your choice: 1
+
+Enter Vehicle ID: EV102
+Enter Owner Name: Priya
+Enter Battery Level (0-100): 40
+Enter Battery Capacity (kWh): 60
+
+Vehicle Registered Successfully!
+
+Vehicle EV102 assigned to Station 2
+
+
+====================================
+ SMART EV CHARGING STATION SYSTEM
+====================================
+
+1. Register Vehicle & Request Charging
+2. View Charging Stations
+3. View Registered Vehicles
+4. View Waiting Queue
+5. Complete Charging & Generate Bill
+6. View Charging & Billing History
+7. Exit
+
+Enter your choice: 2
+
+--- CHARGING STATIONS ---
+
+Station 1 : Occupied by EV101
+Station 2 : Occupied by EV102
+Station 3 : Available
+
+
+====================================
+ SMART EV CHARGING STATION SYSTEM
+====================================
+
+1. Register Vehicle & Request Charging
+2. View Charging Stations
+3. View Registered Vehicles
+4. View Waiting Queue
+5. Complete Charging & Generate Bill
+6. View Charging & Billing History
+7. Exit
+
+Enter your choice: 3
+
+--- REGISTERED VEHICLES ---
+
+Vehicle ID  Owner          Battery     Status
+EV101       Swarna         20          Charging
+EV102       Priya          40          Charging
+
+
+====================================
+ SMART EV CHARGING STATION SYSTEM
+====================================
+
+1. Register Vehicle & Request Charging
+2. View Charging Stations
+3. View Registered Vehicles
+4. View Waiting Queue
+5. Complete Charging & Generate Bill
+6. View Charging & Billing History
+7. Exit
+
+Enter your choice: 4
+
+--- WAITING QUEUE ---
+
+No waiting vehicles.
+
+
+====================================
+ SMART EV CHARGING STATION SYSTEM
+====================================
+
+1. Register Vehicle & Request Charging
+2. View Charging Stations
+3. View Registered Vehicles
+4. View Waiting Queue
+5. Complete Charging & Generate Bill
+6. View Charging & Billing History
+7. Exit
+
+Enter your choice: 5
+
+Enter Station ID: 1
+
+--- CHARGING COMPLETED ---
+
+Vehicle ID: EV101
+Energy Charged: 40 kWh
+Total Bill: Rs. 400.00
+
+Station is now available.
+
+
+====================================
+ SMART EV CHARGING STATION SYSTEM
+====================================
+
+1. Register Vehicle & Request Charging
+2. View Charging Stations
+3. View Registered Vehicles
+4. View Waiting Queue
+5. Complete Charging & Generate Bill
+6. View Charging & Billing History
+7. Exit
+
+Enter your choice: 6
+
+--- CHARGING & BILLING HISTORY ---
+
+Vehicle ID: EV101
+Station ID: 1
+Energy: 40 kWh
+Bill: Rs. 400
+
+
+====================================
+ SMART EV CHARGING STATION SYSTEM
+====================================
+
+1. Register Vehicle & Request Charging
+2. View Charging Stations
+3. View Registered Vehicles
+4. View Waiting Queue
+5. Complete Charging & Generate Bill
+6. View Charging & Billing History
+7. Exit
+
+Enter your choice: 7
+
+Thank you for using EV Charge Manager!
